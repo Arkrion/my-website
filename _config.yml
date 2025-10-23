@@ -1,0 +1,46 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "Aaron's Website"
+description: > # this means to ignore newlines until "email:"
+   A small website. Much work to be done
+
+email:
+#blog logo
+logo: "/assets/images/df_logo.jpg"
+float_logo: false # true, false (default)
+
+# blog cover
+cover: "/assets/images/BG03A1.png"
+paginate:	5
+
+url: "" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: ''
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+  - icon:	github
+    url:	https://github.com/Arkrion
+    desc:	
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
+
+timezone: "Asia/Singapore"
