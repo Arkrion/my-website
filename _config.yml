@@ -17,8 +17,8 @@ float_logo: false # true, false (default)
 cover: "/assets/images/BG03A1.png"
 paginate:	5
 
-url: "https://arkrion.github.io/my-website" # the base hostname & protocol for your site
-baseurl: ""
+url: "https://arkrion.github.io" # the base hostname & protocol for your site
+baseurl: "/my-website"
 #used to display twitter cards
 twitter_handle: ''
 
